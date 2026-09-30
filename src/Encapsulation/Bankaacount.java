@@ -1,6 +1,6 @@
 package Encapsulation;
 
-public class Bankaaccount {
+public class Bankaacount {
 
     private double balance;
 
@@ -27,7 +27,7 @@ public class Bankaaccount {
 
     public static void main(String[] args) {
 
-        Bankaaccount b = new Bankaaccount();
+        Bankaacount b = new Bankaacount();
 
         b.deposit(10000);
         b.withdraw(3000);
