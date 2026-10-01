@@ -14,7 +14,7 @@ import java.util.Scanner;
 	    void showdetails() {
 	        System.out.println("Engineer Specialization: " + specialization);
 	    }
-	}
+	
 	 public static void main(String[] args) {
 	        Engineer e = new Engineer();
 	        Doctor d = new Doctor();
@@ -25,3 +25,5 @@ import java.util.Scanner;
 	        e.showdetails();
 	        d.showdetails();
 	    }
+	 }
+	 
